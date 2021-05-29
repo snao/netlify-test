@@ -2,15 +2,15 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
+title = "Ang Shao Wei"
 languageCode = "en-us"
 baseURL = "https://tender-meitner-30c5a1.netlify.app/"
-copyright = "© Shao Wei{year}"
+copyright = "© Ang Shao Wei{year}"
 
 [params]
   # Follow the Hugo date/time format reference here: 
   # https://gohugo.io/functions/format/#gos-layout-string
-  dateFormat = "Jan 2 2006"
+  dateFormat = "2 Jan 2006"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   # twitter = "https://twitter.com/<your handle>"
