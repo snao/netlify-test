@@ -5,7 +5,7 @@ theme = "hugo-theme-codex"
 title = "codex"
 languageCode = "en-us"
 baseURL = "https://example.org/"
-copyright = "© {2020}"
+copyright = "© Shao Wei {year}"
 
 [params]
   # Follow the Hugo date/time format reference here: 
