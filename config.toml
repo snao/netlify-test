@@ -4,8 +4,8 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "codex"
 languageCode = "en-us"
-baseURL = "https://example.org/"
-copyright = "© Shao Wei {year}"
+baseURL = "https://tender-meitner-30c5a1.netlify.app/"
+copyright = "© Shao Wei{year}"
 
 [params]
   # Follow the Hugo date/time format reference here: 
