@@ -21,7 +21,9 @@ copyright = "© Ang Shao Wei{year}"
   # gitlab = "https://gitlab.com/<your handle>"
   # instagram = "https://instagram.com/<your handle>"
   linkedin = "https://www.linkedin.com/in/angshaowei/"
+  resume = "/docs/Resume - Ang Shao Wei.pdf"
   # youtube = "https://www.youtube.com/channel/<your channel>"
+  iconOrder = ["LinkedIn", "GitHub", "Resume"]
   
  # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting
